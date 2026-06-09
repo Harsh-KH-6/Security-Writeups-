@@ -6,7 +6,7 @@
 
 **Status:** Fixed
 
-**Recognition:** Security Team Acknowledgement
+**Recognition:** Security Team Acknowledgement & Appreciation Letter
 
 ## Overview
 
@@ -46,9 +46,23 @@ The report included observations regarding publicly accessible API documentation
 
 ## Outcome
 
-The security team reviewed the report and remediated the identified exposure.
+The University of San Diego security team reviewed the report, validated the findings, and remediated the identified exposure.
 
-The affected development environment and associated information disclosure issues were subsequently addressed.
+Following remediation, I performed verification testing to confirm that the reported issues had been successfully addressed.
+
+In recognition of the contribution, the University's Information Technology Services team issued an official appreciation letter acknowledging the quality of the report, the remediation validation process, and the responsible disclosure effort.
+
+## Recognition
+
+The appreciation letter highlighted:
+
+* Thorough vulnerability reporting and documentation
+* Assistance with validating remediation efforts
+* Professional responsible disclosure practices
+* Contribution toward improving the security posture of the University
+
+**Appreciation Letter:**
+https://drive.google.com/file/d/1nyS55sWqQElFrxllJBdig-Nj7GgCJgo8/view
 
 ## Skills Demonstrated
 
@@ -58,3 +72,4 @@ The affected development environment and associated information disclosure issue
 * Attack Surface Mapping
 * Responsible Disclosure
 * Technical Reporting
+* Remediation Validation
