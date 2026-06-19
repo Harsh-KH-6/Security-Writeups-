@@ -60,6 +60,8 @@ The Axya Security Team reviewed the report and remediated the identified issues.
 
 In recognition of the responsible disclosure, I was added to the Axya Security Researcher Hall of Fame.
 
+Hall of fame link : https://axya.co/legal/hall-of-fame
+
 ## Skills Demonstrated
 
 * Information Disclosure Analysis
