@@ -20,14 +20,14 @@ All testing was conducted against publicly accessible assets and within the scop
 
 ## Writeups
 
-| Organization | Category | Status | Recognition |
-|-------------|----------|---------|-------------|
-| GEA | API Security / Information Disclosure | Fixed | Hall of Fame |
-| ZKTeco | Access Control / Information Disclosure | Fixed | Swag & Security Acknowledgement |
-| AXYA | Security Assessment | Fixed | Hall of Fame  |
-| San Diego University | Security Assessment | Fixed | Appreciation Letter |
-| TU Delft | Security Assessment | Fixed | Hall of Fame |
-| Sweethawk | Security Assessment | Fixed | Hall of Fame |
+| Organization | Finding Category | Status | Recognition |
+|--------------|------------------|---------|-------------|
+| GEA | API Security / Access Control / Information Disclosure | Fixed | Hall of Fame |
+| Axya | Information Disclosure / Security Misconfiguration | Fixed | Hall of Fame |
+| TU Delft | Information Disclosure / Reconnaissance | Fixed | Hall of Fame |
+| SweetHawk | Information Disclosure | Fixed | Hall of Fame |
+| University of San Diego | API Security / Information Disclosure | Fixed | Appreciation Letter |
+| ZKTeco | Application Security / Access Control / Information Disclosure | Fixed | Swag & Security Acknowledgement |
 
 ---
 
