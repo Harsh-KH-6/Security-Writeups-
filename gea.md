@@ -88,6 +88,9 @@ The GEA Product Security Team reviewed and remediated the reported issues.
 
 In recognition of the contribution, I was added to the GEA Security Hall of Fame.
 
+Gea Hall of Fame : https://www.gea.com/en/about-us/information-security/products/responsible-disclosure-of-security-issues/hall-of-fame/
+
+
 ## Skills Demonstrated
 
 * API Security Testing
